@@ -1,0 +1,334 @@
+{
+  "technicalProjects": [
+    {
+      "id": "owasp-juice-shop",
+      "title": "OWASP Juice Shop — Penetration Test Report",
+      "subtitle": "Black-Box Security Assessment & Vulnerability Analysis",
+      "category": "technical",
+      "categoryLabel": "Penetration Testing",
+      "description": "Conducted a structured black-box penetration test using Burp Suite and Nmap against the OWASP Juice Shop application, documenting attack chains and remediation steps.",
+      "details": [
+        "Identified vulnerabilities mapped across OWASP Top 10 categories",
+        "Applied CVSS scoring methodology across Critical, High, and Medium risk tiers",
+        "Documented end-to-end attack chains with clear reproduction steps",
+        "Authored a formal executive remediation report accepted by the internship supervisor"
+      ],
+      "tags": [
+        "Burp Suite",
+        "Nmap",
+        "OWASP Top 10",
+        "CVSS Scoring",
+        "Penetration Testing"
+      ],
+      "image": "/images/projects-bg.jpg",
+      "accent": "from-rose-500/20 to-red-600/20",
+      "links": {
+        "github": "https://github.com/yuinoirsec/OWASP-Juice-Shop"
+      },
+      "featured": true
+    },
+    {
+      "id": "networking-knowledge-doctrine",
+      "title": "Networking Knowledge Doctrine",
+      "subtitle": "Comprehensive Technical Networking Reference",
+      "category": "technical",
+      "categoryLabel": "Network Architecture",
+      "description": "Authored an authoritative networking reference document covering core protocols, architectures, and defense-in-depth principles — widely referenced by students and peers.",
+      "details": [
+        "Comprehensive coverage of TCP/IP stack, routing protocols, and subnetting",
+        "Network defense models: firewalls, DMZ segmentation, and access control lists",
+        "Structured study doctrine utilized by junior engineers and students",
+        "Practical packet flow diagrams and troubleshooting methodologies"
+      ],
+      "tags": [
+        "Networking",
+        "TCP/IP",
+        "Documentation",
+        "Security Architecture",
+        "Cisco"
+      ],
+      "image": "/images/japan-shrine.jpg",
+      "accent": "from-blue-500/20 to-cyan-600/20",
+      "links": {
+        "github": "https://github.com/yuinoirsec/Networking-Knowledge-Doctrine"
+      },
+      "featured": true
+    },
+    {
+      "id": "shelves-lms",
+      "title": "Shelves — Library Management System",
+      "subtitle": "Full-Stack Database Architecture & Team Technical Lead",
+      "category": "technical",
+      "categoryLabel": "Software Engineering",
+      "description": "Engineered the relational database architecture and served as the technical lead for an end-to-end institutional library management platform.",
+      "details": [
+        "Designed the complete third-normal-form relational schema in MySQL",
+        "Led technology selection (PHP/MySQL) and unblocked team environment hurdles",
+        "Implemented role-based access control (Admin, Librarian, Student roles)",
+        "Ensured on-schedule delivery through continuous code review and Git collaboration"
+      ],
+      "tags": [
+        "PHP",
+        "MySQL",
+        "Relational Database",
+        "System Architecture",
+        "Git"
+      ],
+      "image": "/images/about-bg.png",
+      "accent": "from-amber-500/20 to-rose-500/20",
+      "featured": true
+    },
+    {
+      "id": "secure-home-network",
+      "title": "Secure Segmented Network Architecture",
+      "subtitle": "VLAN Isolation & Zero Lateral Movement Lab",
+      "category": "technical",
+      "categoryLabel": "Network Security",
+      "description": "Designed and deployed a segmented home infrastructure simulation using Cisco Packet Tracer with isolated VLANs to eliminate lateral movement risk.",
+      "details": [
+        "Enforced strict VLAN segmentation separating IoT, personal devices, and virtualized lab VMs",
+        "Applied Access Control Lists (ACLs) to block unauthorized inter-VLAN communications",
+        "Simulated adversarial lateral movement attempts to validate boundary isolation",
+        "Documented reproducible router and switch running configurations"
+      ],
+      "tags": [
+        "Cisco Packet Tracer",
+        "VLANs",
+        "ACLs",
+        "Lateral Movement Defense",
+        "Isolation"
+      ],
+      "image": "/images/waybar-preview.png",
+      "accent": "from-emerald-500/20 to-teal-600/20",
+      "featured": false
+    },
+    {
+      "id": "adso-waybar",
+      "title": "Adso's Omarchy Waybar Suite",
+      "subtitle": "Linux Desktop Customization & Modern UI System",
+      "category": "technical",
+      "categoryLabel": "UI/UX & Linux Rice",
+      "description": "An open-source collection of 8 bespoke Waybar status bar themes crafted for the Omarchy Linux desktop ecosystem, spanning Material Design, floating, and vertical layouts.",
+      "details": [
+        "8 unique modular configurations (v1.3 through v1.6 Google Material style)",
+        "Fully responsive CSS styling with custom animations and icon font integration",
+        "Automated one-command quick installation scripts for Arch Linux/Omarchy",
+        "Over 10 releases and positive community adoption in Linux rice forums"
+      ],
+      "tags": [
+        "Linux",
+        "Waybar",
+        "CSS3",
+        "Omarchy",
+        "UI/UX",
+        "Shell Scripting"
+      ],
+      "image": "/images/waybar-v16.png",
+      "accent": "from-purple-500/20 to-rose-500/20",
+      "links": {
+        "github": "https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar"
+      },
+      "featured": false
+    }
+  ],
+  "creativeProjects": [
+    {
+      "id": "chronicles-of-lumina",
+      "title": "Chronicles of Lumina",
+      "subtitle": "Original Fantasy Novel Series & Codex",
+      "category": "writing",
+      "categoryLabel": "Original Fiction & Worldbuilding",
+      "description": "An expansive dark fantasy novel series set in the world of Lumina, where humanity's existence is bound to an ethereal energy current governed by the absolute law of the S.O.U.L System.",
+      "details": [
+        "Comprehensive worldbuilding across 12 Sovereign Nations, each with distinct sociopolitical hierarchies and elemental cultures",
+        "The S.O.U.L System (System of Unified Lumina) — a multi-tiered framework governing Resonance, Luminal Spirits, and Limiter Protocols",
+        "Complex political intrigue among the encrypted 12 Symbols, ancient Legends, and the enigmatic administrative Sages",
+        "Cycle 50 Tournament timeline spanning regional qualifiers through the Grand Finals of Lotus Month"
+      ],
+      "tags": [
+        "Dark Fantasy",
+        "Worldbuilding",
+        "Original Novel",
+        "Power Systems",
+        "Political Intrigue"
+      ],
+      "image": "/images/lumina-cover.jpg",
+      "accent": "from-amber-500/20 to-rose-500/20",
+      "featured": true
+    },
+    {
+      "id": "satoshi-shogun-design",
+      "title": "Satoshi Shogun — Character Architecture",
+      "subtitle": "Philosophical & Power System Conceptual Design",
+      "category": "writing",
+      "categoryLabel": "Character Conception",
+      "description": "The protagonist of Lumina: a silent, analytical Primordial entity who intentionally suppresses his limits. His moral framework bridges Stoicism, Existentialism, and Absurdism.",
+      "details": [
+        "Core ethical rule: engaging in an action implies accepting its consequences — Satoshi refuses to offer artificial warnings",
+        "Element: Anti-Matter / Void — conceptualized around annihilation, nullification, and existence beyond conventional tier systems",
+        "Adaptive Slimesuit technology: shapeshifting biomechanical attire dynamically transitioning between Kasumigakure kimono and stealth gear",
+        "'I exist beyond conventional system... Kai, you are the only puzzle I can't solve.'"
+      ],
+      "tags": [
+        "Character Design",
+        "Philosophy",
+        "Stoicism",
+        "Void Affinity",
+        "Anti-Hero"
+      ],
+      "image": "/images/ruins-of-chaos.jpg",
+      "accent": "from-red-500/20 to-rose-900/20",
+      "featured": true
+    },
+    {
+      "id": "ruins-of-chaos",
+      "title": "Ruins of Chaos — Dual Identity Arc",
+      "subtitle": "Volume Development, Yui Shogun & Zac Zander",
+      "category": "writing",
+      "categoryLabel": "Narrative Arc & Draft",
+      "description": "A personal volume addressing identity transformation, curse deception, and the emergence of Yui Shogun alongside the pragmatic ENTP dual-protagonist Zac Zander.",
+      "details": [
+        "Yui Shogun's emergence: not a simple gender-bender, but a distinct lived identity seeking normalcy and genuine connection",
+        "Zac Zander: ENTP strategic necromancer who exploits system loopholes rather than seeking absolute transcendence",
+        "Strategic plot: demon factions exploit the world's confusion over Satoshi's disappearance to breach the Ruins of Chaos",
+        "'You are the identity. I am the person who carried that identity. I am Yui. I am Satoshi. I am Myself and I am absolute.'"
+      ],
+      "tags": [
+        "Identity Arc",
+        "Manuscript Draft",
+        "Psychological Narrative",
+        "Dual Protagonist"
+      ],
+      "image": "/images/creative-bg.jpg",
+      "accent": "from-purple-500/20 to-rose-500/20",
+      "featured": true
+    },
+    {
+      "id": "ai-character-ideation",
+      "title": "AI Visual Ideation & Aesthetic Direction",
+      "subtitle": "Generative AI Prompting & Multi-Modal Concept Art",
+      "category": "ai",
+      "categoryLabel": "AI Content & Concept Art",
+      "description": "Exploration of state-of-the-art diffusion and multimodal AI models to visualize fantasy character aesthetics, intricate lighting, and cyberpunk atmospheric moodboards.",
+      "details": [
+        "Crafted multi-layered prompt engineering pipelines incorporating lighting, compositional angles, and cultural styling",
+        "Iterative refinement of character features: silver-white hair, vivid ruby eyes, and Kasumigakure dark-affinity fabrics",
+        "Post-processing pipeline: high-resolution upscaling, color grading in Lightroom, and artifact retouching",
+        "Visual worldbuilding assets utilized directly for scene visualization and moodboarding"
+      ],
+      "tags": [
+        "Prompt Engineering",
+        "Generative AI",
+        "Concept Art",
+        "Lightroom",
+        "Visual Ideation"
+      ],
+      "image": "/images/ai-kitsune.webp",
+      "accent": "from-cyan-500/20 to-rose-500/20",
+      "featured": true
+    },
+    {
+      "id": "ai-cyberpunk-aesthetic",
+      "title": "Cyberpunk & Modern Speculative Visions",
+      "subtitle": "AI-Assisted Environmental & Styling Studies",
+      "category": "ai",
+      "categoryLabel": "AI Content & Concept Art",
+      "description": "Speculative cyberpunk concept series merging futuristic neon streetscapes with tactile character designs, studying chromatic aberration and atmospheric volumetrics.",
+      "details": [
+        "Explored negative prompting and style LoRA blending to achieve crisp, non-generic sci-fi textures",
+        "Atmospheric lighting studies: neon reflections on wet asphalt, volumetric fog, and lens glow",
+        "Seamless asset preparation suitable for web visual banners and video thumbnails",
+        "Created production-ready wallpaper assets and background environments"
+      ],
+      "tags": [
+        "AI Art",
+        "Cyberpunk",
+        "Lighting Studies",
+        "Volumetric Art",
+        "Prompt Crafting"
+      ],
+      "image": "/images/ai-cyberpunk.jpg",
+      "accent": "from-indigo-500/20 to-rose-500/20",
+      "featured": false
+    },
+    {
+      "id": "amv-video-production",
+      "title": "Anime Music Videos & Dynamic Video Edits",
+      "subtitle": "Independent YouTube Content Creation & Editing",
+      "category": "media",
+      "categoryLabel": "Video & Content Creation",
+      "description": "Produced dynamic edits, gameplay videos, and anime music videos (AMVs) for personal YouTube channels, exploring pacing, rhythm synchronization, and visual effects.",
+      "details": [
+        "Frame-accurate beat matching and velocity editing in DaVinci Resolve and CapCut",
+        "Color grading: stylized contrast curves, cinematic LUT application, and chromatic balancing",
+        "Audio design: SFX layering, EQ adjustment, and seamless transitional soundscapes",
+        "Custom high-CTR thumbnail designs created in Photoshop and Canva"
+      ],
+      "tags": [
+        "DaVinci Resolve",
+        "CapCut",
+        "AMV",
+        "Video Editing",
+        "Audio Sync",
+        "Color Grading"
+      ],
+      "image": "/images/amv-edit.jpg",
+      "accent": "from-rose-500/20 to-orange-500/20",
+      "featured": false
+    },
+    {
+      "id": "medical-diagnosis-app",
+      "title": "Medical Diagnosis & Symptom Checker",
+      "subtitle": "Freelance Healthcare Software Application",
+      "category": "freelance",
+      "categoryLabel": "Freelance Software & Media",
+      "description": "Designed, developed, and delivered a bespoke software application for symptom tracking and preliminary medical diagnostic assessment for a freelance client.",
+      "details": [
+        "Built intuitive patient-facing interview workflows for symptom input and severity rating",
+        "Implemented rule-based diagnostic evaluation mapping indicators against medical guidelines",
+        "Created an administrative summary report export for attending healthcare providers",
+        "Completed full client handoff with user documentation and testing validation"
+      ],
+      "tags": [
+        "Freelance",
+        "Software Development",
+        "Healthcare App",
+        "UI/UX",
+        "Client Delivery"
+      ],
+      "image": "/images/medical.jpg",
+      "accent": "from-emerald-500/20 to-blue-600/20",
+      "featured": false
+    },
+    {
+      "id": "hizz-ai-beverage-campaign",
+      "title": "Hizz — AI-Assisted Beverage Campaign",
+      "subtitle": "Speculative Beverage Advertising | Google Flow",
+      "category": "media",
+      "categoryLabel": "AI-Assisted Media",
+      "description": "An independent campaign concept for Hizz, a fictional sparkling-drink brand. The project explores flavor-led product advertising and lifestyle storytelling through AI-generated stills and four short 16:9 video clips.",
+      "details": [
+        "Created flavor-specific product visuals for Lisp Lemon, Sweet Strawberry, Punchy Mango, and Elite Soda.",
+        "Generated four short 16:9 video clips covering a strawberry splash reveal, summer-picnic lifestyle scene, outdoor product lineup, and product-range outro.",
+        "Used prompt iteration and visual references to explore a recognizable campaign look across studio product shots and lifestyle scenes.",
+        "Reviewed generated outputs for product continuity and text/packaging artifacts that would need correction before commercial delivery.",
+        "Independent portfolio concept. Hizz is fictional, and all packaging copy and product claims are illustrative rather than verified."
+      ],
+      "tags": [
+        "Google Flow",
+        "AI Video Generation",
+        "AI Image Generation",
+        "Prompt Design",
+        "Product Advertising",
+        "Lifestyle Content",
+        "Visual Storytelling"
+      ],
+      "image": "/images/hizz-campaign-cover.jpg",
+      "accent": "from-rose-500/20 to-amber-400/10",
+      "featured": false,
+      "links": {
+        "video": "/videos/hizz-lineup-outro.mp4"
+      }
+    }
+  ]
+}
