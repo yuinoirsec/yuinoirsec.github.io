@@ -16,44 +16,6 @@ An elegant, sleek portfolio webpage built with **Next.js 14**, **TypeScript**, a
 - **Substituted Assets**:
   - High-resolution imagery from `Downloads` and `Pictures` (hero backdrops, avatar, creative covers, Waybar rice previews).
 
-## 📁 Project Structure
-
-```
-/home/yui/work/portfolio/
-├── public/
-│   └── images/              # Curated and mapped substitute images
-├── src/
-│   ├── app/
-│   │   ├── globals.css      # Custom styling, fonts, glassmorphism, scrollbars
-│   │   ├── layout.tsx       # Root layout with metadata
-│   │   ├── page.tsx         # Main portfolio homepage
-│   │   └── projects/
-│   │       ├── layout.tsx   # Dedicated metadata for projects subpage
-│   │       └── page.tsx     # Neat Projects subpage (Technical & Creative)
-│   └── components/
-│       ├── Navbar.tsx       # Glassmorphism header with cross-page navigation
-│       ├── Footer.tsx       # Social links, branding, and copyright
-│       └── AnimatedSection.tsx # Framer Motion scroll reveals
-├── tailwind.config.ts       # Custom font families, colors, and keyframe animations
-├── tsconfig.json
-└── package.json
-```
-
-## 🚀 Running the Project
-
-```bash
-# Load Node (v24 LTS installed via fnm)
-export PATH="/home/yui/.local/share/fnm:$PATH"
-eval "$(fnm env)"
-fnm use v24.22.0
-
-# Development server
-npm run dev
-
-# Or build & start production server
-npm run build
-npm run start
-```
 
 ## 🌟 Highlighted Sections
 
