@@ -180,7 +180,7 @@ const creativeExperience = [
   {
     role: 'Freelance Software & Media Creator',
     company: 'Client Software & Media Delivery',
-    period: 'Done',
+    period: 'Ongoing',
     category: 'Freelance Delivery',
     highlights: [
       'Engineered and sold bespoke software applications, including a medical diagnosis-checking platform and customized personal portfolio websites.',
